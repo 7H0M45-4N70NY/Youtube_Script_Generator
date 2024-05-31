@@ -1,0 +1,6 @@
+youtube-transcript-api
+llama-index-llms-gemini
+streamlit
+#json
+#llama-index google-generativeai
+#regex
